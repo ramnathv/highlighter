@@ -5,4 +5,4 @@ dependencies:
     script:
       - highlight.pack.js
     stylesheet:
-      - styles/solarized-light.css
+      - styles/tomorrow.css
